@@ -5,5 +5,3 @@ Rock vs Scissor -> Rock wins
 Rock vs Paper -> Paper wins
 Paper vs Scissor -> Scissor wins
 In this game, the user is asked to make choices based on both computer and user choices and the results are displayed showing both computer and user choices.
-
-Technologies Required: C++ programming language, I/O Streams, Standard Library Functions.
